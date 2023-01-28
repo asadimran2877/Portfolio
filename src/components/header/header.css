@@ -8,6 +8,7 @@ header{
     text-align: center;
     height: 100%;
     position: relative;
+    
 }
 /* CTA */
 .cta{
@@ -63,6 +64,10 @@ header{
 @media screen and (max-width:1024px) {
 header{
     height:75vh;
+}
+.header__container
+{
+    margin: 0 auto;
 }
     
   }
