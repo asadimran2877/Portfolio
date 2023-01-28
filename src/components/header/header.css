@@ -82,6 +82,16 @@ header{
     .header__socials,.scroll__down{
         display: none;
     }
+    .me{
+       
+        width: 22rem;
+        height: 28rem;
+         left:calc(50% - 11rem); 
+        margin-top: 4rem;
+        border-radius: 11rem 11rem 0rem 0rem;
+        overflow: hidden;
+        padding: 3rem 1.5rem 1.5rem 1.5rem;
+    }
     
     }
   
