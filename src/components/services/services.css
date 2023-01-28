@@ -72,7 +72,12 @@
        .services__container{
         grid-template-columns: 1fr;
         gap: 1.5rem;
-       }
        
-        
+       }
+   
+        .service{
+            width: 350px;
+            /* padding-left: 100px; */
+        }
+      
         }
