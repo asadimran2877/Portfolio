@@ -69,7 +69,7 @@
       @media screen and (max-width:600px) {
        .experience__container{
         gap:1rem;
-    margin-left: 10px;
+    margin-left: 18px;
        }
        .experience__container >div{
         width: 100%;
