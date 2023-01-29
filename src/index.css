@@ -48,6 +48,7 @@ body{
 .container{
   width : var(--container-width-lg);
   margin: 0 auto;
+  /* overflow-x: hidden; */
   /* margin-left: 150px; */ 
 }
 

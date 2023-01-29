@@ -60,11 +60,14 @@
     .services__container{
         grid-template-columns: 1fr 1fr;
         gap: 2rem;
+        margin-left: -20px;
+        
     }
 
     .service{
         height: auto;
         width: 310px;
+       
     }
         
       }
@@ -79,7 +82,7 @@
    
         .service{
             width: 350px;
-           margin-left: -90px;
+           margin-left: -50px;
         }
       
         }

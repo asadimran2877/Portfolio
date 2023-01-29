@@ -2,8 +2,8 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 2.5rem;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .portfolio__item{

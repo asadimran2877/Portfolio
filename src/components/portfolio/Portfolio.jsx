@@ -43,6 +43,13 @@ const Portfolio = () => {
       github: "https://github.com",
       demo: "https://github.com",
     },
+    {
+      id: 6,
+      image: IMG6,
+      title: "Portfolio 6",
+      github: "https://github.com",
+      demo: "https://github.com",
+    },
   ];
   return (
     <section id="portfolio">
