@@ -2,8 +2,9 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 3rem;
-    padding-left: 100px;
+    padding-left: 90px;
     padding-right: 100px;
+    
 }
 
 .service{
